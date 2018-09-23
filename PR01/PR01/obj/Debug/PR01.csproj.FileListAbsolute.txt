@@ -1,0 +1,15 @@
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\bin\Debug\PR01.exe.config
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\bin\Debug\PR01.exe
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\bin\Debug\PR01.pdb
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\bin\Debug\DPFPDevNET.dll
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\bin\Debug\DPFPEngNET.dll
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\bin\Debug\DPFPGuiNet.dll
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\bin\Debug\DPFPShrNET.dll
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\obj\Debug\PR01.Form1.resources
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\obj\Debug\PR01.Properties.Resources.resources
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\obj\Debug\PR01.csproj.GenerateResource.cache
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\obj\Debug\PR01.csproj.CoreCompileInputs.cache
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\obj\Debug\PR01.csproj.CopyComplete
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\obj\Debug\PR01.exe
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\obj\Debug\PR01.pdb
+C:\Users\acalo\Desktop\Hackathon\PR00\PR01\PR01\PR01\obj\Debug\PR01.csprojAssemblyReference.cache
